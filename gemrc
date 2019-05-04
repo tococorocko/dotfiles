@@ -1,10 +1,14 @@
-:update_sources: true
-:sources:
-- http://gems.rubyforge.org/
-- http://gems.github.com
-:benchmark: false
-:bulk_threshold: 1000
+---
 :backtrace: false
+:bulk_threshold: 1000
+:sources:
+- http://gems.github.com
+- http://rubygems.org
+:update_sources: true
 :verbose: true
 gem: --no-documentinstall --no-rdoc --no-ri
 update:  --no-rdoc --no-ri
+:concurrent_downloads: 8
+benchmark: false
+gem: "--no-document"
+gem: --no-ri --no-rdoc
