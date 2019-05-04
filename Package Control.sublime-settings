@@ -5,13 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"1Self",
 		"A File Icon",
 		"AdvancedNewFile",
+		"Agila Theme",
 		"All Autocomplete",
+		"ayu",
 		"Babel",
+		"BracketHighlighter",
 		"DashDoc",
 		"Emmet",
 		"ERB Snippets",
+		"FileIcons",
 		"Git",
 		"GitGutter",
 		"MouseEventListener",

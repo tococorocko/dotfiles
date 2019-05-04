@@ -1,6 +1,6 @@
 {
 	"always_show_minimap_viewport": false,
-	"color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
+	"color_scheme": "Packages/ayu/ayu-light.sublime-color-scheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -33,7 +33,7 @@
 		80
 	],
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "ayu-light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
