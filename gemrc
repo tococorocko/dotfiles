@@ -6,4 +6,5 @@
 :bulk_threshold: 1000
 :backtrace: false
 :verbose: true
-gem: --no-document
+gem: --no-documentinstall --no-rdoc --no-ri
+update:  --no-rdoc --no-ri
