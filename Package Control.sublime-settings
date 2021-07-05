@@ -1,29 +1,23 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
-		"1Self",
-		"A File Icon",
-		"AdvancedNewFile",
-		"Agila Theme",
-		"All Autocomplete",
-		"ayu",
-		"Babel",
-		"BracketHighlighter",
-		"DashDoc",
-		"Emmet",
-		"ERB Snippets",
-		"FileIcons",
-		"Git",
-		"GitGutter",
-		"MouseEventListener",
-		"Package Control",
-		"SCSS",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-rubocop"
+	    "A File Icon",
+	    "AdvancedNewFile",
+	    "All Autocomplete",
+	    "Anaconda",
+	    "AutoPEP8",
+	    "Babel",
+	    "BracketHighlighter",
+	    "Color Highlight",
+	    "Emmet",
+	    "ERB Snippets",
+	    "Git",
+	    "Latest Migration",
+	    "MagicPython",
+	    "Package Control",
+	    "SCSS",
+	    "SublimeLinter",
+	    "SublimeLinter-flake8",
+	    "SublimeLinter-rubocop"
 	]
 }
