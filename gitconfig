@@ -47,7 +47,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = lucca.kaiser@infopark.de
+	email = luccakaiser@justrelate.com
 	name = Lucca Kaiser
 [filter "lfs"]
 	clean = git-lfs clean -- %f
