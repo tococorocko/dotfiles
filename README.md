@@ -7,3 +7,5 @@
 
 - adjust settings
 - run `zsh install.sh`
+
+- run `zsh git_setup.sh`
