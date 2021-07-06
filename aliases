@@ -15,3 +15,6 @@ pushd ~/work/justrelate/main/bin/hacker/solman_status && SOLMAN_CSV=~/Downloads/
 function ssclose(){
 pushd ~/work/justrelate/main/bin/hacker/solman_status && SOLMAN_CSV=~/Downloads/export.csv TOKEN=$PTT TICKET_NUMBER=$1 rake close; popd
 }
+
+alias sw="VBoxManage startvm Ubuntu14.04.3LTS-Fiona7-40G --type headless"
+alias gh='VBoxManage controlvm "Ubuntu14.04.3LTS-Fiona7-40G" savestate'
